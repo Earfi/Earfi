@@ -7,7 +7,7 @@
 |     3| css       |   0 |
 
 <div id="badges" >
- <a href="https://www.youtube.com/channel/UCuuwbe0QU5ECgzVfvyYg-oA">
+ <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
   </a>
 </div>
