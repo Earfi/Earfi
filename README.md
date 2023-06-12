@@ -1,11 +1,3 @@
-### Hi there 👋
-
-| Name                  | Percentage | Youtube |
-| --------------------- | :--------: | --------------------------------------------------------------------------------- |
-| นายพิชญะ จันทรศรีวงศ์ |    100%    | <div id="badges" ><a href="https://www.youtube.com/channel/UCGJkReE2_w4O4PIlJ-O2sUg"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a></div> |
-
-
-
 ## My Project
 
 <li><b>Practice HTML CSS JS</b></li>
