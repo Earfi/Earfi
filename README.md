@@ -36,3 +36,14 @@
     </td>
   </tr>
 </table>
+
+
+<li>Silder : https://swiperjs.com/</li>
+<li>Font : https://fonts.google.com/</li>
+<li>Icon : https://remixicon.com/</li>
+<li>Icon : https://icones.js.org/</li>
+<li> https://cdnjs.com/libraries/font-awesome</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
