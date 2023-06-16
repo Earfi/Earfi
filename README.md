@@ -43,7 +43,7 @@
 <li>Icon : https://remixicon.com/</li>
 <li>Icon : https://icones.js.org/</li>
 <li> https://cdnjs.com/libraries/font-awesome</li>
-<li></li>
+<li>Scroll : https://scrollrevealjs.org/</li>
 <li></li>
 <li></li>
 <li></li>
