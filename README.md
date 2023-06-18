@@ -22,6 +22,7 @@
       <img src="https://github.com/Earfi/practice_informationBike_html_css_js/assets/129359335/32d583af-d7fd-44c2-adca-9258fedf77a1" alt="image" style="width: 20%; max-width: 100px; margin-left: 10px;">
     </td>
   </tr>
+  
   <tr>
     <td style="text-align: left;">2. login</td>
     <td><a href="https://github.com/Earfi/html_css_js_practice_login" alt="login">login</a></td>
@@ -33,6 +34,17 @@
       <img src="https://github.com/Earfi/html_css_js_practice_login/assets/129359335/bb85e376-e2c6-409f-890d-2099247b592a" alt="image" style="width: 30%; margin-left: 10px;">
       <img src="https://github.com/Earfi/html_css_js_practice_login/assets/129359335/29c0982d-3c21-45ff-975c-a642bac2e038" alt="image" style="width: 30%;">
       <img src="https://github.com/Earfi/html_css_js_practice_login/assets/129359335/e31feaee-d55a-43c9-ae26-ce73f7ad0c15" alt="image" style="width: 30%; margin-left: 10px;">
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="text-align: left;">3. Ducati</td>
+    <td><a href="https://github.com/Earfi/html_css_js_practice_ducati" alt="Ducati">Ducati</a></td>
+    <td style="text-align: center;"><div id="badges">
+    <a href=""><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>
+  </div></td>
+   <td style="display: flex; align-items: center;">
+      <img src="https://github.com/Earfi/html_css_js_practice_ducati/assets/129359335/e7b99785-ef28-4f0c-b9ea-de6a551e11b9" alt="image" style="width: 20%; max-width: 100px; margin-left: 10px;">
     </td>
   </tr>
 </table>
