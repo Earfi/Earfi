@@ -1,6 +1,24 @@
 ## My Project
 
-<li><b>Practice HTML CSS JS</b></li>
+
+<li><b>Help Vue Vite</b></li>
+<li>api free : https://github.com/public-apis/public-apis</li>
+<li>axios : https://www.npmjs.com/package/axios</li>
+<li>Icon : https://icones.js.org/</li>
+<li>css tailwind : https://tailwindcss.com/docs/guides/vite#vue</li>
+<li>https://github.com/tailwindlabs/tailwindcss-forms</li>
+<li>Silder : https://swiperjs.com/</li>
+<li>Font : https://fonts.google.com/</li>
+<li>Font : https://cdnjs.com/libraries/font-awesome</li>
+<li>Icon : https://remixicon.com/</li>
+<li>Scroll : https://scrollrevealjs.org/</li>
+<li></li>
+<li></li>
+
+##  Practice Vue Vite
+<br/>
+
+##  Practice HTML CSS JS
 <br/>
 
 <table>
@@ -48,14 +66,3 @@
     </td>
   </tr>
 </table>
-
-
-<li>Silder : https://swiperjs.com/</li>
-<li>Font : https://fonts.google.com/</li>
-<li>Icon : https://remixicon.com/</li>
-<li>Icon : https://icones.js.org/</li>
-<li> https://cdnjs.com/libraries/font-awesome</li>
-<li>Scroll : https://scrollrevealjs.org/</li>
-<li></li>
-<li></li>
-<li></li>
