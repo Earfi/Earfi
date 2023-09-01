@@ -12,7 +12,7 @@
 <li>Font : https://cdnjs.com/libraries/font-awesome</li>
 <li>Icon : https://remixicon.com/</li>
 <li>Scroll : https://scrollrevealjs.org/</li>
-<li></li>
+<li>Template html css : https://themeselection.com/item/category/free-admin-templates/</li>
 <li>Practice : html css js : https://divize.io/account </li>
 
 ##  Practice Vue Vite
