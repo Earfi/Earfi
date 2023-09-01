@@ -13,7 +13,7 @@
 <li>Icon : https://remixicon.com/</li>
 <li>Scroll : https://scrollrevealjs.org/</li>
 <li></li>
-<li></li>
+<li>Practice : html css js : https://divize.io/account </li>
 
 ##  Practice Vue Vite
 <br/>
