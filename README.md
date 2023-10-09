@@ -12,14 +12,14 @@
   </tr>
   <tr>
     <td style="text-align: left;">1. Meals List</td>
-    <td><a href="https://github.com/Earfi/Vue_Food_Finish" alt="Information Bike">Meals List</a></td>
+    <td><a href="https://github.com/Earfi/Vue_Food_Finish" alt="meals list github">Meals List</a></td>
     <td style="text-align: center;"><div id="badges">
     <a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>
   </div></td>
     <td style="display: flex; align-items: center;">
       <img src="https://github.com/Earfi/Vue_Food_Finish/assets/129359335/b0abb627-cbce-42f3-a945-ce1f4a2a1eaf" alt="image" style="width: 20%; max-width: 100px;">
       <img src="https://github.com/Earfi/Vue_Food_Finish/assets/129359335/90161013-749d-4627-b855-27e1219404b0" alt="image" style="width: 20%; max-width: 100px; margin-left: 10px;">
-      <img src="https://github.com/Earfi/Vue_Food_Finish/assets/129359335/bd48ee22-98ce-4d0c-9e5f-a327a5dd1875" alt="image" style="width: 20%; max-width: 100px; margin-left: 10px;">
+      <img src="https://github.com/Earfi/Vue_Food_Finish/assets/129359335/bd48ee22-98ce-4d0c-9e5f-a327a5dd1875" alt="image" style="width: 30%; max-width: 100px; margin-left: 10px;">
     </td>
   </tr>
 
@@ -35,8 +35,22 @@
     <th style="text-align: center;">YOUTUBE</th>
     <th style="text-align: center; width: 40%; max-width: 400px;">IMG</th>
   </tr>
+
+<tr>
+    <td style="text-align: left;">1. BLACKPINK</td>
+    <td><a href="https://github.com/Earfi/html_css_js_practice_blackpink" alt="blackpink Github">BLACKPINK</a></td>
+    <td style="text-align: center;"><div id="badges">
+    <a href="https://youtu.be/Zw1G42eydko"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>
+  </div></td>
+    <td style="display: flex; align-items: center;">
+      <img src="https://github.com/Earfi/Earfi/assets/129359335/3632852d-b546-48cf-9598-94a1a86fa753" alt="image" style="width: 30%; max-width: 100px;">
+      <img src="https://github.com/Earfi/Earfi/assets/129359335/ea783c26-b57b-45db-adda-8b9c934edcee" alt="image" style="width: 30%; max-width: 100px; margin-left: 30px;">
+      <img src="https://github.com/Earfi/Earfi/assets/129359335/5c6f1e11-5ec4-4219-919c-64c265111913" alt="image" style="width: 30%; max-width: 100px; margin-left: 30px;">
+    </td>
+  </tr>
+  
   <tr>
-    <td style="text-align: left;">1. Information Bike</td>
+    <td style="text-align: left;">2. Information Bike</td>
     <td><a href="https://github.com/Earfi/practice_informationBike_html_css_js.git" alt="Information Bike">Information Bike</a></td>
     <td style="text-align: center;"><div id="badges">
     <a href="https://youtu.be/Zw1G42eydko"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>
@@ -49,7 +63,7 @@
   </tr>
   
   <tr>
-    <td style="text-align: left;">2. login</td>
+    <td style="text-align: left;">3. login</td>
     <td><a href="https://github.com/Earfi/html_css_js_practice_login" alt="login">login</a></td>
     <td style="text-align: center;"><div id="badges">
     <a href=""><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>
@@ -63,7 +77,7 @@
   </tr>
   
   <tr>
-    <td style="text-align: left;">3. Ducati</td>
+    <td style="text-align: left;">4. Ducati</td>
     <td><a href="https://github.com/Earfi/html_css_js_practice_ducati" alt="Ducati">Ducati</a></td>
     <td style="text-align: center;"><div id="badges">
     <a href=""><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>
