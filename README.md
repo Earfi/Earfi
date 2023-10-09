@@ -76,16 +76,17 @@
 
 
 
-<li><b>Help Vue Vite</b></li>
+<li><b>Help</b></li>
 <li>api free : https://github.com/public-apis/public-apis</li>
 <li>axios : https://www.npmjs.com/package/axios</li>
 <li>Icon : https://icones.js.org/</li>
+<li>Icon : https://remixicon.com/</li>
+<li>Icon PNG : https://www.flaticon.com/</li>
 <li>css tailwind : https://tailwindcss.com/docs/guides/vite#vue</li>
 <li>https://github.com/tailwindlabs/tailwindcss-forms</li>
 <li>Silder : https://swiperjs.com/</li>
 <li>Font : https://fonts.google.com/</li>
 <li>Font : https://cdnjs.com/libraries/font-awesome</li>
-<li>Icon : https://remixicon.com/</li>
 <li>Scroll : https://scrollrevealjs.org/</li>
 <li>Template html css : https://themeselection.com/item/category/free-admin-templates/</li>
 <li>Practice : html css js : https://divize.io/account </li>
