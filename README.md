@@ -95,6 +95,7 @@
 <li>Icon : https://remixicon.com/</li>
 <li>Icon PNG : https://www.flaticon.com/</li>
 <li>css tailwind : https://tailwindcss.com/docs/guides/vite#vue</li>
+<li>css daisyui  : https://daisyui.com/</li>
 <li>https://github.com/tailwindlabs/tailwindcss-forms</li>
 <li>Silder : https://swiperjs.com/</li>
 <li>Font : https://fonts.google.com/</li>
