@@ -1,5 +1,3 @@
-## My Project
-
 ##  Practice Vue Vite
 <br/>
 
