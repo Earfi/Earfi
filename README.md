@@ -1,3 +1,27 @@
+##  Practice Quarkus Minio Jasper React
+<br/>
+
+<table>
+  <tr>
+    <th style="text-align: left;">PROJECT</th>
+    <th style="text-align: left;">GITHUB</th>
+    <th style="text-align: center;">YOUTUBE</th>
+    <th style="text-align: center; width: 40%; max-width: 400px;">IMG</th>
+  </tr>
+  <tr>
+    <td style="text-align: left;">1. Quarkus Minio Jasper React</td>
+    <td><a href="https://github.com/Earfi/Vue_Food_Finish" alt="meals list github">GITHUB</a></td>
+    <td style="text-align: center;"><div id="badges">
+    <a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>
+  </div></td>
+    <td style="display: flex; align-items: center;">
+      <img src="https://github.com/Earfi/Quarkus_Minio/assets/129359335/ff3228de-cf41-47b3-a627-2ee886da3909" alt="image" style="width: 20%; max-width: 100px;">
+      <img src="https://github.com/Earfi/Quarkus_Minio/assets/129359335/7ab1fd2f-9004-43ff-a4bf-0ab88be597d0" alt="image" style="width: 20%; max-width: 100px; margin-left: 10px;">
+    </td>
+  </tr>
+
+</table>
+
 ##  Practice Vue Vite
 <br/>
 
