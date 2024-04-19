@@ -127,3 +127,4 @@
 <li>Scroll : https://scrollrevealjs.org/</li>
 <li>Template html css : https://themeselection.com/item/category/free-admin-templates/</li>
 <li>Practice : html css js : https://divize.io/account </li>
+<li>Practice : Extension : https://chromewebstore.google.com/detail/color-picker-tool-geco/eokjikchkppnkdipbiggnmlkahcdkikp?hl=en-US&utm_source=ext_sidebar </li> 
