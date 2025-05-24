@@ -10,12 +10,11 @@
 - Backend: `Node.js`, `Java`
 - Database: `MySQL`
 - Tools: `Git`, `Postman`, `Figma`
-- 
+
 ## 🔗 เชื่อมต่อกับฉัน
 🔗 [LinkedIn: พิชญะ จันทรศรีวงศ์](https://www.linkedin.com/in/พิชญะ-จันทรศรีวงศ์-30b359356/)
 
-## 🔗 web แนะนำตัวของฉัน
-https://my-portfolio-ten-gamma-98.vercel.app/
+🔗 [web portfolio แนะนำงานของฉัน](https://my-portfolio-ten-gamma-98.vercel.app/)
 
 ##  Practice Quarkus Minio Jasper React
 <br/>
