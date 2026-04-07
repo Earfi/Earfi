@@ -7,7 +7,7 @@
 - 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ React, Node.js
 - 📫 ติดต่อได้ที่: pichaya.chan.work@gmail.com
 
-## 🛠️ ทักษะที่ถนัด
+## 🛠️ ทักษะ
 - Frontend: `React`, `Tailwind CSS`, `JavaScript`, `HTML/CSS`
 - Backend: `Node.js`, `Java`
 - Database: `MySQL`
