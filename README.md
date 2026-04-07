@@ -8,12 +8,12 @@
 - 📫 ติดต่อได้ที่: pichaya.chan.work@gmail.com
 
 ## 🛠️ ทักษะ
-- Frontend: `React`, `Tailwind CSS`, `JavaScript`, `HTML/CSS`
+- Frontend: `React`, `JavaScript`, `HTML/CSS`
 - Backend: `Node.js`, `Java`
 - Database: `MySQL`
 - Tools: `Git`, `Postman`, `Figma`
 
-##  Practice Quarkus Minio Jasper React
+##  Practice
 <br/>
 
 <table>
@@ -33,7 +33,7 @@
 
 </table>
 
-##  Practice Vue Vite
+##  Practice
 <br/>
 
 <table>
@@ -54,7 +54,7 @@
 
 </table>
 
-##  Practice HTML CSS JS
+##  Practice
 <br/>
 
 <table>
