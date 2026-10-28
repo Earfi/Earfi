@@ -4,7 +4,7 @@
 
 ## 🚀 เกี่ยวกับฉัน
 - 👨‍💻 ชื่นชอบการสร้างระบบ Web Application 
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ React, Node.js
+- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับการ design โครงสร้างโปรเจค
 - 📫 ติดต่อได้ที่: pichaya.chan.work@gmail.com
 
 ## 🛠️ ทักษะ
@@ -12,7 +12,11 @@
 - Backend: `Node.js`, `Java`
 - Database: `MySQL`
 - Tools: `Git`, `Postman`, `Figma`
+- AI: `Claude`
 
+
+
+<!-- 
 ##  Practice
 <br/>
 
@@ -32,7 +36,7 @@
   </tr>
 
 </table>
-
+ 
 ##  Practice
 <br/>
 
@@ -91,4 +95,4 @@
       <img src="https://github.com/Earfi/html_css_js_practice_ducati/assets/129359335/e7b99785-ef28-4f0c-b9ea-de6a551e11b9" alt="image" style="width: 20%; max-width: 100px; margin-left: 10px;">
     </td>
   </tr>
-</table>
+</table> -->
